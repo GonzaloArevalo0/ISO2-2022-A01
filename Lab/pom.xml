@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>Group-A01</groupId>
+  <artifactId>Lab</artifactId>
+  <packaging>pom</packaging>
+  <version>0.2.0</version>
+ 
+  <modules>
+  	<module>it1_server</module>
+  	<module>it1</module>
+  	<module>it2</module>
+  	<module>it2_server</module>
+   	<module>it3_server</module>
+   	<module>It4_server</module>
+   	<module>It5_server</module>
+   	<module>It6_server</module>
+   	<module>It7_server</module>
+  </modules>
+</project>
