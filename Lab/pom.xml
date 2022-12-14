@@ -4,8 +4,7 @@
   <groupId>Group-A01</groupId>
   <artifactId>Lab</artifactId>
   <packaging>pom</packaging>
-  <version>0.2.0</version>
- 
+  <version>0.7.0</version>
   <modules>
   	<module>it1_server</module>
   	<module>it1</module>
